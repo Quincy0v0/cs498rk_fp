@@ -6,7 +6,6 @@
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
-    "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-document-meta": "^3.0.0-beta.2",
     "react-dom": "^16.8.6",
@@ -33,5 +32,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.20.0"
+  }
 }
